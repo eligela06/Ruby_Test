@@ -1,1 +1,3 @@
-print "Hello Git"
+5.times do
+    print "Hello Git"
+end
